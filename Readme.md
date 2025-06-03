@@ -47,10 +47,12 @@
 
 ---
 <p align="center">
-  _Estamos só começando, o melhor ainda está por vir !_
+  🔋Apenas começando, o melhor ainda está por vir !🔋
 </p>
  <div align="center">
    <a href="https://github.com/JoaoPedroCastro13t">
 </div>
      
 <br>
+
+<img src="https://goadmedia.com.br/wp-content/uploads/2017/12/Gif-capa-1440x450.gif" alt="Astronauta" min-width="400px" max-width="400px" width="1200px" align="right">
