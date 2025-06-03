@@ -1,11 +1,11 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://cdn-icons-png.flaticon.com/512/3344/3344322.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-# 👋 Olá! Seja bem-vindo!
+👋 Olá! Seja bem-vindo!
 
-🚀 Analista de Sistemas em formação, apaixonado por tecnologia e café ☕.  
+🚀 Analista de Sistemas em formação, apaixonado por tecnologia, games e outras coisas nerds 🤓.  
 
-🎯 Busco oportunidades para aprender e crescer no desenvolvimento web, focando em **HTML, CSS e JavaScript**.  
+🎯 Busco oportunidades para aprender e crescer na área do desenvolvimento **Back-End - Front end**.  
 </p>
 
 <p align="left">
@@ -38,16 +38,16 @@
 </div><br>
 </p>
 <p align="left">
-## 📫 Contatos :
+📫 Contato :
 </p>
-<div align="center"> 
+<div align="left"> 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-castro-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 
 ---
 <p align="center">
-  _"O aprendizado nunca termina. Sempre há algo novo para explorar!"_ 
+  _Estamos só começando, o melhor ainda está por vir !_
 </p>
  <div align="center">
    <a href="https://github.com/JoaoPedroCastro13t">
