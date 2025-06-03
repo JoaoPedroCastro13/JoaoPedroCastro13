@@ -35,7 +35,7 @@
 
 
 
-</div><br>
+</div>
 </p>
 <p align="left">
 📫 Contato :
