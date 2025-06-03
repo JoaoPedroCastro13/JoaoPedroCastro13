@@ -18,24 +18,20 @@
   </p>
 </p>
 
-
 <p align="left">
   💼 Ferramentas: GitHub, VS Code 
 </p>
 
 <div style="display: inline_block" align="center"><br>
   
-  
 <p align="left">
-<code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"> </code>
-<code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"> </code>
-<code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> </code>
-<code> <img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"> </code>
-<code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"> </code>
+<code> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"> </code>
+<code> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"> </code>
+<code> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> </code>
+<code> <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"> </code>
+<code> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"> </code>
 
-
-
-</div><br>
+</div>
 </p>
 <p align="left">
 📫 Contato :
@@ -43,7 +39,6 @@
 <div align="left"> 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-castro-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
 
 ---
 <p align="center">
@@ -53,6 +48,7 @@
    <a href="https://github.com/JoaoPedroCastro13t">
 </div>
      
-<br>
+<div align="center">
+<img src="https://goadmedia.com.br/wp-content/uploads/2017/12/Gif-capa-1440x450.gif" alt="Astronauta" min-width="400px" max-width="400px" width="400px" 
+</div>
 
-<img src="https://goadmedia.com.br/wp-content/uploads/2017/12/Gif-capa-1440x450.gif" alt="Astronauta" min-width="400px" max-width="400px" width="1200px" align="right">
