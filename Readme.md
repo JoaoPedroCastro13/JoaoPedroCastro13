@@ -22,17 +22,8 @@
   💼 Ferramentas: GitHub, VS Code 
 </p>
 
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center">
   
-<p align="left">
-<code> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"> </code>
-<code> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"> </code>
-<code> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> </code>
-<code> <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"> </code>
-<code> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"> </code>
-
-</div>
-</p>
 <p align="left">
 📫 Contato :
 </p>
